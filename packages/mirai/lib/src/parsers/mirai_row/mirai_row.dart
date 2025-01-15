@@ -21,3 +21,6 @@ class MiraiRow with _$MiraiRow {
   factory MiraiRow.fromJson(Map<String, dynamic> json) =>
       _$MiraiRowFromJson(json);
 }
+
+
+adsfasfadfs
